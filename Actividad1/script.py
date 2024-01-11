@@ -1,5 +1,5 @@
-from .servicio import Servicio
-from .producto import Producto
+from servicio import Servicio
+from producto import Producto
 import sys
 
 servicio = Servicio()
